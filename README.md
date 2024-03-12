@@ -1,0 +1,1 @@
+# automatic-api-doc-model
